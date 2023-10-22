@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__init__.pyc
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+nosetests-debug.log
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Visual Studio Code files
+.vscode/
+.idea/
+
+# PyCharm files
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python 3.8 and earlier, no .gitignore needed for Python 3.9+:
+__pycache__
+pycache/
+*.pyc
+*.pyo
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Compiled source
+__pycache__/
+*.pyc
+
+# Temporary files
+*~
+*.swp
+*.bak
+*.backup
+*.sav
+*.save
